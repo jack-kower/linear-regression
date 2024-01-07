@@ -5,7 +5,7 @@
 # 2. start a virtual environment by either activating a current virtual environment or by creating a new one
 #    a. To create a new one, run the command virtualenv <name of env>
 #        i. example would be virtualenv venv
-#    b. This is optional. Only to keep downloaded packeges contained in one environment
+#    b. This is optional. Only to keep downloaded packages contained in one environment
 #    c. To activate an already made environement:
 #       i. On Windows: <name of environment folder>/Scripts/activate
 #       ii. On Mac or Linux: source <name_of_environment>/bin/activate
